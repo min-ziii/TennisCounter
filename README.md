@@ -1,6 +1,7 @@
 
 # <Tennis Counter🥎>
-<hr style="border: 3px solid #000;">
+
+<hr style="border: 4px solid #000; margin: 0;">
 
 
 ## 프로젝트 개요
